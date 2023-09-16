@@ -75,7 +75,7 @@
         <a href="https://maps.app.goo.gl/iQ5RzpxmdUHtYSDh7" target="_blank">
           <div class="venue">RECEPTION VENUE</div>
         </a>
-        <a href="https://github.com/DivineBiotech/Aswathy/raw/master/invitation/Wedding.pdf" download="Invitation | 2 Nov | Hope to see you there!">
+        <a href="https://github.com/DivineBiotech/Aswathy/raw/Edits/invitation/Wedding.pdf" download="Invitation | 2 Nov | Hope to see you there!">
           <div class="venue">DOWNLOAD INVITATION CARD</div>
         </a>
       </div>

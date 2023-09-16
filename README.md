@@ -5,24 +5,24 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
       <meta name="description"
-         content="With the divine grace of the almighty, inviting you and your family to ASWATHY C B and RAJESH R G's wedding to be held on 2nd November 2023 at Sree Narayana Gurudeva Temple, Aruvippuram between 10.00 am and 10.30 am">
+         content="With the divine grace of the almighty, inviting you and your family to ASWATHY C B and RAJESH R G's wedding to be held on 2nd November 2023 at Sree Narayana Gurudeva Temple, Aruvippuram between 9.00 am and 10.00 am">
       <meta name="author" content="ASWIN">
       <meta name="email" content="divinebiotech007@gmail.com">
       <meta name="copyright" content="ASWIN original copyright to Vinit Shahdeo" />
       <meta property="og:type" content="website" />
       <meta property="og:title" content="Wedding Invitation | ASWATHY C B weds RAJESH R G | 2 nd November 2023 | Gurudeva Temple, Aruvippuram" />
       <meta property="og:description"
-         content="With the divine grace of the almighty, inviting you and your family to ASWATHY C B and RAJESH R G's wedding to be held on 2nd November 2023 at Gurudeva Temple, Aruvippuram between 10.00 am and 10.30 am" />
-      <meta property="og:image" content="https://raw.githubusercontent.com/DivineBiotech/Aswathy/raw/invitation/invitation.jpg" />
+         content="With the divine grace of the almighty, inviting you and your family to ASWATHY C B and RAJESH R G's wedding to be held on 2nd November 2023 at Gurudeva Temple, Aruvippuram between 9.00 am and 10.00 am" />
+      <meta property="og:image" content="https://raw.githubusercontent.com/DivineBiotech/Aswathy/raw/invitation/Wedding.jpg" />
       <meta property="og:url" content="" />
       <meta property="og:site_name" content="Wedding Invitation| ASWATHY C B weds RAJESH R G | 2nd November 2023" />
       <meta name="twitter:card" content="website">
       <meta name="twitter:site" content="Wedding Invitation | ASWATHY C B weds RAJESH R G | 2nd November 2023">
       <meta name="twitter:title" content="Wedding Invitation | ASWATHY C B weds RAJESH R G | 2nd November 2023">
       <meta name="twitter:description"
-         content="We are inviting you and your family to ASWATHY C B and RAJESH R G's wedding to be held on  2nd November 2023 at Gurudeva Temple, Aruvippuram between 10.00 am and 10.30 am">
+         content="We are inviting you and your family to ASWATHY C B and RAJESH R G's wedding to be held on  2nd November 2023 at Gurudeva Temple, Aruvippuram between 9.00 am and 10.00 am">
       <meta name="twitter:creator" content="@DivineBiotech">
-      <meta name="twitter:image" content="https://raw.githubusercontent.com/DivineBiotech/Aswathy/raw/invitation/invitation.jpg">
+      <meta name="twitter:image" content="https://raw.githubusercontent.com/DivineBiotech/Aswathy/raw/invitation/Wedding.jpg">
 
       <title>ASWATHY C B weds RAJESH R G</title>
 
@@ -49,7 +49,7 @@
             <h1>RAJESH R G</h1>
             <h3>Are getting married</h3>
             <p>
-               on <span class="date">2nd November 2023</span> <br><br/> Muhoortham between <span class="date"> 10.00 am and 10.30 am </span> <br/><br/> At <span class="place"> Gurudeva Temple, Aruvippuram</span>
+               on <span class="date">2nd November 2023</span> <br><br/> Muhoortham between <span class="date"> 9.00 am and 10.00 am </span> <br/><br/> At <span class="place"> Gurudeva Temple, Aruvippuram</span>
                <span class="time"></span>
             </p>
          </div>
@@ -75,7 +75,7 @@
         <a href="https://maps.app.goo.gl/iQ5RzpxmdUHtYSDh7" target="_blank">
           <div class="venue">RECEPTION VENUE</div>
         </a>
-        <a href="https://github.com/DivineBiotech/Aswathy/raw/master/invitation/invitation.pdf" download="Invitation | 2 Nov | Hope to see you there!">
+        <a href="https://github.com/DivineBiotech/Aswathy/raw/master/invitation/Wedding.pdf" download="Invitation | 2 Nov | Hope to see you there!">
           <div class="venue">DOWNLOAD INVITATION CARD</div>
         </a>
       </div>
@@ -184,7 +184,7 @@
       </p>
       
       <div class="music">
-      <audio src="./assets/mp3/musicnw.aac" id="my_audio" loop="loop" autoplay   ></audio>
+      <audio src="./assets/mp3/Songs.mp3" id="my_audio" loop="loop" autoplay   ></audio>
 		
 		
 	</iframe> 

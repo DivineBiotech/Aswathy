@@ -40,7 +40,7 @@
       <img src="https://i.imgur.com/t6ffnbn.png" alt="image-top-left" class="top-left-decoration"> 
       <section id="media"></section>
       <div class="topImg"><div class="image-cropper">
-      <img src="assets/img/for_web.jpg" class="image-cropper__image" />
+      <img src="assets/img/Invitations.jpg" class="image-cropper__image" />
       </div></div>
       <div class="wrap">
          <div class="title">

@@ -56,7 +56,7 @@
       </div>
 	<div class="venueParent">
       <div class="actions">
-        <a href="https://goo.gl/maps/ALiC9g17xpQYtwDq9" style="width:fit-content;" target="_blank">
+        <a href="https://maps.app.goo.gl/1Jv2B9PZKn8kThD89" style="width:fit-content;" target="_blank">
           <div class="venue1">TAP HERE FOR VENUE</div>
         </a>
         </div>
